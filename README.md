@@ -45,7 +45,7 @@
 ![Docker Compose](https://img.shields.io/badge/Docker%20Compose-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Kubernetes](https://img.shields.io/badge/Kubernetes%20(Learning)-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux%20Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
-![Alpine](https://img.shields.io/badge/Alpine%20Linux-0D597F?style=for-for-the-badge&logo=alpine-linux&logoColor=white)
+![Alpine](https://img.shields.io/badge/Alpine%20Linux-0D597F?style=for-the-badge&logo=alpine-linux&logoColor=white)
 
 ### 📊 **Observability & Monitoring**
 ![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=prometheus&logoColor=white)
@@ -104,16 +104,16 @@ cd taskflow-docker-api && docker compose -f docker-compose.nginx.yml up -d
 
 ---
 
-## 📊 **GitHub Real-time Statistics**
+## 📊 **GitHub Activity & Real-time Metrics**
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=m7moud2&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="48%" />
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=m7moud2&theme=tokyonight&hide_border=true" width="48%" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=m7moud2&theme=tokyonight" width="48%" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=m7moud2&theme=tokyonight" width="48%" />
 
-<br>
+<br><br>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=m7moud2&layout=compact&theme=tokyonight&hide_border=true" width="48%" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=m7moud2&theme=tokyonight" width="48%" />
 
 </div>
 
