@@ -5,7 +5,7 @@
 
   <!-- Animated Typing Subtitle -->
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=00F0FF&center=true&vCenter=true&width=700&lines=Building+Modular+Containerized+Infrastructure;Prometheus+%26+Grafana+Observability+Stacks;Automated+CI%2FCD+Pipelines+with+GitHub+Actions;Docker+%E2%80%A2+Linux+%E2%80%A2+PromQL+%E2%80%A2+Alertmanager" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=00F0FF&center=true&vCenter=true&width=700&lines=Building+Modular+Containerized+Infrastructure;Prometheus+%26+Grafana+Observability+Stacks;Automated+CI%2FCD+Pipelines+with+GitHub+Actions;Nginx+%E2%80%A2+Apache+%E2%80%A2+PHP-FPM+%E2%80%A2+Linux+%E2%80%A2+CCNA+%E2%80%A2+Network%2B" alt="Typing SVG" />
   </a>
 
   <br><br>
@@ -24,15 +24,18 @@
 
 ```
 ╔═════════════════════════════════════════════════════════════════════════════════╗
-║  Junior DevOps & Observability Engineer dedicated to building self-healing      ║
-║  containerized environments, automated metrics scraping, and CI/CD pipelines.  ║
+║  Junior DevOps & Observability Engineer with solid hands-on experience in       ║
+║  Linux Administration, Web Server Deployments (Nginx / Apache / PHP-FPM),      ║
+║  Networking (CCNA / Network+), Containerization, and Observability Stacks.      ║
 ╚═════════════════════════════════════════════════════════════════════════════════╝
 ```
 
-- 🔭 **Current Focus:** Designing decoupled multi-container monitoring architectures using **Docker Compose**, **Prometheus**, **Alertmanager**, and **Grafana**.
-- 🛠️ **Practical Experience:** **Nginx Exporter (`/stub_status`)**, **MySQL 8.0 Exporter**, **Alertmanager Silencing Rules**, and **Automated Provisioning**.
-- 📐 **Engineering Philosophy:** Decoupled Architecture, Clean Documentation, Infrastructure Automation, and SRE Observability Standards.
-- 🎓 **Continuous Learning:** Kubernetes (K8s) Cluster Architecture, Helm, Terraform (IaC), and OpenTelemetry.
+- 📍 **Location:** Cairo, Egypt
+- 🐧 **Linux Administration:** Deep hands-on experience with Linux OS (Ubuntu/Debian, Alpine), service management (`systemctl`), permissions, process management, SSH hardening, and shell scripting.
+- 🌐 **Web Server & Stack Deployments:** Deployed production-ready **Nginx** reverse proxy setups with **WordPress & MySQL 8.0**, as well as **Apache (HTTPD)** configured with **PHP-FPM** for dynamic web application performance.
+- 📡 **Networking Fundamentals:** Solid groundwork based on **CompTIA Network+** & **Cisco CCNA** (TCP/IP stack, OSI model, Subnetting IPv4/v6, VLANs, DNS/DHCP, Routing/Switching, NAT, and Firewall security).
+- 🔭 **Current Focus:** Building decoupled multi-container monitoring architectures using **Docker Compose**, **Prometheus**, **Alertmanager**, and **Grafana**.
+- 📐 **Engineering Philosophy:** Clean Architecture, Infrastructure Automation, Detailed Documentation, and SRE Observability Standards.
 
 ---
 
@@ -40,12 +43,24 @@
 
 <div align="center">
 
-### 🐳 **Containers & Infrastructure**
+### 🐧 **OS, Linux & Networking**
+![Linux](https://img.shields.io/badge/Linux%20Administration-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
+![Alpine](https://img.shields.io/badge/Alpine%20Linux-0D597F?style=for-the-badge&logo=alpine-linux&logoColor=white)
+![Cisco CCNA](https://img.shields.io/badge/Cisco-CCNA%20Networking-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white)
+![Network+](https://img.shields.io/badge/CompTIA-Network%2B-FF0000?style=for-the-badge&logo=comptia&logoColor=white)
+
+### 🐳 **Containers & Orchestration**
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Docker Compose](https://img.shields.io/badge/Docker%20Compose-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Kubernetes](https://img.shields.io/badge/Kubernetes%20(Learning)-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux%20Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
-![Alpine](https://img.shields.io/badge/Alpine%20Linux-0D597F?style=for-the-badge&logo=alpine-linux&logoColor=white)
+
+### 🌐 **Web Servers & Databases**
+![Nginx](https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white)
+![Apache](https://img.shields.io/badge/Apache%20HTTPD-D22128?style=for-the-badge&logo=apache&logoColor=white)
+![PHP-FPM](https://img.shields.io/badge/PHP--FPM-777BB4?style=for-the-badge&logo=php&logoColor=white)
+![WordPress](https://img.shields.io/badge/WordPress-21759B?style=for-the-badge&logo=wordpress&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL%208.0-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 
 ### 📊 **Observability & Monitoring**
 ![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=prometheus&logoColor=white)
@@ -53,10 +68,8 @@
 ![Alertmanager](https://img.shields.io/badge/Alertmanager-E6522C?style=for-the-badge&logo=prometheus&logoColor=white)
 ![PromQL](https://img.shields.io/badge/PromQL-00F0FF?style=for-the-badge&logo=prometheus&logoColor=black)
 
-### ⚙️ **CI/CD, Web & Databases**
+### ⚙️ **CI/CD & Automation**
 ![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
-![Nginx](https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL%208.0-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![Bash](https://img.shields.io/badge/Bash%20Scripting-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
