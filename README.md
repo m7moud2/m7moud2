@@ -1,4 +1,4 @@
-# ⚡ Mahmoud Abdelkawy | Junior DevOps & Observability Engineer
+# Mahmoud Abdelkawy | Junior DevOps & Observability Engineer
 
 <div align="center">
 
@@ -11,7 +11,7 @@
 
 ---
 
-### 🚀 **About Me & Hands-on Experience**
+### About Me & Hands-on Experience
 
 ```
 ╔═════════════════════════════════════════════════════════════════════════════════╗
@@ -26,47 +26,47 @@
 
 ---
 
-## 🐧 **Linux, Networking & Server Experience**
+## Linux, Networking & Server Experience
 
-- 🐧 **Linux System Administration:** Deep hands-on experience with Linux OS (Ubuntu/Debian, Alpine), service control (`systemctl`), user management, file permissions, SSH hardening, and Bash scripting.
-- 🌐 **Web Server & Stack Deployments:**
+- **Linux System Administration:** Deep hands-on experience with Linux OS (Ubuntu/Debian, Alpine), service control (`systemctl`), user management, file permissions, SSH hardening, and Bash scripting.
+- **Web Server & Stack Deployments:**
   - Deployed production-ready **Nginx** reverse proxy setups with **WordPress & MySQL 8.0** in modular container environments.
   - Deployed & configured **Apache (HTTPD)** web server paired with **PHP-FPM** for dynamic PHP application execution.
-- 📡 **Networking Fundamentals:** Solid groundwork based on **CompTIA Network+** & **Cisco CCNA** (TCP/IP stack, OSI layers, IPv4/v6 Subnetting, VLANs, DNS, DHCP, Routing & Switching, NAT, Firewall ACLs).
-- 🔭 **Observability & Monitoring:** Building modular container monitoring stacks using **Docker Compose**, **Prometheus**, **Alertmanager**, and **Grafana**.
+- **Networking Fundamentals:** Solid groundwork based on **CompTIA Network+** & **Cisco CCNA** (TCP/IP stack, OSI layers, IPv4/v6 Subnetting, VLANs, DNS, DHCP, Routing & Switching, NAT, Firewall ACLs).
+- **Observability & Monitoring:** Building modular container monitoring stacks using **Docker Compose**, **Prometheus**, **Alertmanager**, and **Grafana**.
 
 ---
 
-## 🛠️ **DevOps Core Arsenal**
+## DevOps Core Arsenal
 
 <div align="center">
 
-### 🐧 **OS, Linux & Networking**
+### OS, Linux & Networking
 ![Linux](https://img.shields.io/badge/Linux%20Administration-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
 ![Alpine](https://img.shields.io/badge/Alpine%20Linux-0D597F?style=for-the-badge&logo=alpine-linux&logoColor=white)
 ![Cisco CCNA](https://img.shields.io/badge/Cisco-CCNA%20Networking-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white)
 ![Network+](https://img.shields.io/badge/CompTIA-Network%2B-FF0000?style=for-the-badge&logo=comptia&logoColor=white)
 
-### 🐳 **Containers & Orchestration**
+### Containers & Orchestration
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Docker Compose](https://img.shields.io/badge/Docker%20Compose-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Kubernetes](https://img.shields.io/badge/Kubernetes%20(Learning)-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
 
-### 🌐 **Web Servers & Databases**
+### Web Servers & Databases
 ![Nginx](https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white)
 ![Apache](https://img.shields.io/badge/Apache%20HTTPD-D22128?style=for-the-badge&logo=apache&logoColor=white)
 ![PHP-FPM](https://img.shields.io/badge/PHP--FPM-777BB4?style=for-the-badge&logo=php&logoColor=white)
 ![WordPress](https://img.shields.io/badge/WordPress-21759B?style=for-the-badge&logo=wordpress&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL%208.0-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 
-### 📊 **Observability & Monitoring**
+### Observability & Monitoring
 ![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=prometheus&logoColor=white)
 ![Grafana](https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white)
 ![Alertmanager](https://img.shields.io/badge/Alertmanager-E6522C?style=for-the-badge&logo=prometheus&logoColor=white)
 ![PromQL](https://img.shields.io/badge/PromQL-00F0FF?style=for-the-badge&logo=prometheus&logoColor=black)
 
-### ⚙️ **CI/CD & Automation**
+### CI/CD & Automation
 ![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
 ![Bash](https://img.shields.io/badge/Bash%20Scripting-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
@@ -75,11 +75,11 @@
 
 ---
 
-## 🌟 **Featured DevOps Masterpiece**
+## Featured DevOps Project
 
 <div align="center">
 
-### 📦 [**TaskFlow Docker Observability API**](https://github.com/m7moud2/taskflow-docker-api)
+### [TaskFlow Docker Observability API](https://github.com/m7moud2/taskflow-docker-api)
 *Production-Grade Enterprise Observability & Monitoring Infrastructure*
 
 ```
@@ -91,31 +91,31 @@ WordPress Site   <--> MySQL 8.0   ──> MySQL Exporter (9104) ──┘       
 
 </div>
 
-- 🔹 **Modular Architecture:** Decoupled stacks for standalone Nginx (`docker-compose.nginx.yml`) and WordPress/MySQL 8.0 (`docker-compose.wordpress.yml`).
-- 🔹 **Automated Provisioning:** Grafana datasources (`http://prometheus:9090`) and pre-loaded JSON dashboards with zero manual GUI setup.
-- 🔹 **Alerting & Silencing:** Failover alert rules for service outages and Alertmanager silencing workflows for maintenance windows.
-- 🔹 **Quality Assurance:** GitHub Actions CI verification pipeline, executable health check scripts, and failure injection testing.
+- **Modular Architecture:** Decoupled stacks for standalone Nginx (`docker-compose.nginx.yml`) and WordPress/MySQL 8.0 (`docker-compose.wordpress.yml`).
+- **Automated Provisioning:** Grafana datasources (`http://prometheus:9090`) and pre-loaded JSON dashboards with zero manual GUI setup.
+- **Alerting & Silencing:** Failover alert rules for service outages and Alertmanager silencing workflows for maintenance windows.
+- **Quality Assurance:** GitHub Actions CI verification pipeline, executable health check scripts, and failure injection testing.
 
 ```bash
-# 🚀 Launch Nginx Observability Stack
+# Launch Nginx Observability Stack
 git clone https://github.com/m7moud2/taskflow-docker-api.git
 cd taskflow-docker-api && docker compose -f docker-compose.nginx.yml up -d
 ```
 
 ---
 
-## 🎯 **Career Roadmap & Growth**
+## Career Roadmap & Growth
 
-- 🎓 **Current Learning Path:**
-  - ☸️ **Kubernetes (K8s):** Pod Scheduling, Service Mesh, Ingress Controllers, StatefulSets & Helm.
-  - 🏗️ **Terraform (IaC):** Cloud Infrastructure Provisioning, HCL Code Modules, State Management.
-  - 🔍 **Advanced Observability:** OpenTelemetry (OTel) Collector & Grafana Loki Log Aggregation.
-- 🎯 **Career Goal:**
+- **Current Learning Path:**
+  - **Kubernetes (K8s):** Pod Scheduling, Service Mesh, Ingress Controllers, StatefulSets & Helm.
+  - **Terraform (IaC):** Cloud Infrastructure Provisioning, HCL Code Modules, State Management.
+  - **Advanced Observability:** OpenTelemetry (OTel) Collector & Grafana Loki Log Aggregation.
+- **Career Goal:**
   - Joining a high-performance DevOps / SRE team to build resilient infrastructure, optimize CI/CD pipelines, and maintain high service availability.
 
 ---
 
-## 📊 **GitHub Activity & Real-time Metrics**
+## GitHub Activity & Real-time Metrics
 
 <div align="center">
 
@@ -128,7 +128,7 @@ cd taskflow-docker-api && docker compose -f docker-compose.nginx.yml up -d
 
 <div align="center">
 
-### 📫 **Connect & Collaborate**
+### Connect & Collaborate
 
 [![Email](https://img.shields.io/badge/Email-m7moud3bdelkawy%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:m7moud3bdelkawy@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Mahmoud--Abdelkawy-0A66C2?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/mahmoud-abdelkawy-99290020b)
