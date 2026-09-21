@@ -1,41 +1,39 @@
+# ⚡ Mahmoud Abdelkawy | Junior DevOps & Observability Engineer
+
 <div align="center">
 
-  <!-- Animated Header Banner -->
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00f0ff,50:7928CA,100:ff007f&height=220&section=header&text=Mahmoud%20Abdelkawy&fontSize=48&fontColor=ffffff&fontAlignY=38&desc=Junior%20DevOps%20%26%20Observability%20Engineer&descFontSize=20&descAlignY=62&descAlign=50" width="100%" />
+[![DevOps Focus](https://img.shields.io/badge/Role-Junior%20DevOps%20%26%20Observability%20Engineer-00f0ff?style=for-the-badge&logo=docker&logoColor=white)](https://github.com/m7moud2)
+[![Location](https://img.shields.io/badge/Location-Cairo%2C%20Egypt-ff007f?style=for-the-badge&logo=googlemaps&logoColor=white)](https://github.com/m7moud2)
 
-  <!-- Animated Typing Subtitle -->
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=00F0FF&center=true&vCenter=true&width=700&lines=Building+Modular+Containerized+Infrastructure;Prometheus+%26+Grafana+Observability+Stacks;Automated+CI%2FCD+Pipelines+with+GitHub+Actions;Nginx+%E2%80%A2+Apache+%E2%80%A2+PHP-FPM+%E2%80%A2+Linux+%E2%80%A2+CCNA+%E2%80%A2+Network%2B" alt="Typing SVG" />
-  </a>
+[![Linux & Admin](https://img.shields.io/badge/Linux-Ubuntu%20%2F%20Alpine-FCC624?style=for-the-badge&logo=linux&logoColor=black)](https://github.com/m7moud2)
+[![Web Servers](https://img.shields.io/badge/Web%20Servers-Nginx%20%2F%20Apache%20%2F%20PHP--FPM-009639?style=for-the-badge&logo=nginx&logoColor=white)](https://github.com/m7moud2)
+[![Networking](https://img.shields.io/badge/Networking-Network%2B%20%2F%20Cisco%20CCNA-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white)](https://github.com/m7moud2)
 
-  <br><br>
+---
 
-  <!-- Quick Badges -->
-  [![DevOps Focus](https://img.shields.io/badge/Focus-Observability%20%26%20Cloud%20Native-00f0ff?style=for-the-badge&logo=docker&logoColor=white)](https://github.com/m7moud2)
-  [![Location](https://img.shields.io/badge/Location-Cairo%2C%20Egypt-ff007f?style=for-the-badge&logo=googlemaps&logoColor=white)](https://github.com/m7moud2)
-  [![LinkedIn](https://img.shields.io/badge/LinkedIn-Mahmoud%20Abdelkawy-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mahmoud-abdelkawy-99290020b)
-  [![Twitter](https://img.shields.io/badge/X-m7moud3bdelkawy-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/m7moud3bdelkawy)
+### 🚀 **About Me & Hands-on Experience**
+
+```
+╔═════════════════════════════════════════════════════════════════════════════════╗
+║  Junior DevOps & Observability Engineer based in Cairo, Egypt.                  ║
+║  Hands-on experience in Linux Administration, Web Server Deployments            ║
+║  (Nginx / WordPress / Apache / PHP-FPM), Network Fundamentals (CCNA / Network+), ║
+║  Docker Containerization, and Prometheus & Grafana Observability Stacks.        ║
+╚═════════════════════════════════════════════════════════════════════════════════╝
+```
 
 </div>
 
 ---
 
-## ⚡ **About Me & Engineering Focus**
+## 🐧 **Linux, Networking & Server Experience**
 
-```
-╔═════════════════════════════════════════════════════════════════════════════════╗
-║  Junior DevOps & Observability Engineer with solid hands-on experience in       ║
-║  Linux Administration, Web Server Deployments (Nginx / Apache / PHP-FPM),      ║
-║  Networking (CCNA / Network+), Containerization, and Observability Stacks.      ║
-╚═════════════════════════════════════════════════════════════════════════════════╝
-```
-
-- 📍 **Location:** Cairo, Egypt
-- 🐧 **Linux Administration:** Deep hands-on experience with Linux OS (Ubuntu/Debian, Alpine), service management (`systemctl`), permissions, process management, SSH hardening, and shell scripting.
-- 🌐 **Web Server & Stack Deployments:** Deployed production-ready **Nginx** reverse proxy setups with **WordPress & MySQL 8.0**, as well as **Apache (HTTPD)** configured with **PHP-FPM** for dynamic web application performance.
-- 📡 **Networking Fundamentals:** Solid groundwork based on **CompTIA Network+** & **Cisco CCNA** (TCP/IP stack, OSI model, Subnetting IPv4/v6, VLANs, DNS/DHCP, Routing/Switching, NAT, and Firewall security).
-- 🔭 **Current Focus:** Building decoupled multi-container monitoring architectures using **Docker Compose**, **Prometheus**, **Alertmanager**, and **Grafana**.
-- 📐 **Engineering Philosophy:** Clean Architecture, Infrastructure Automation, Detailed Documentation, and SRE Observability Standards.
+- 🐧 **Linux System Administration:** Deep hands-on experience with Linux OS (Ubuntu/Debian, Alpine), service control (`systemctl`), user management, file permissions, SSH hardening, and Bash scripting.
+- 🌐 **Web Server & Stack Deployments:**
+  - Deployed production-ready **Nginx** reverse proxy setups with **WordPress & MySQL 8.0** in modular container environments.
+  - Deployed & configured **Apache (HTTPD)** web server paired with **PHP-FPM** for dynamic PHP application execution.
+- 📡 **Networking Fundamentals:** Solid groundwork based on **CompTIA Network+** & **Cisco CCNA** (TCP/IP stack, OSI layers, IPv4/v6 Subnetting, VLANs, DNS, DHCP, Routing & Switching, NAT, Firewall ACLs).
+- 🔭 **Observability & Monitoring:** Building modular container monitoring stacks using **Docker Compose**, **Prometheus**, **Alertmanager**, and **Grafana**.
 
 ---
 
@@ -124,10 +122,6 @@ cd taskflow-docker-api && docker compose -f docker-compose.nginx.yml up -d
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=m7moud2&theme=tokyonight" width="48%" />
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=m7moud2&theme=tokyonight" width="48%" />
 
-<br><br>
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=m7moud2&theme=tokyonight" width="48%" />
-
 </div>
 
 ---
@@ -140,10 +134,5 @@ cd taskflow-docker-api && docker compose -f docker-compose.nginx.yml up -d
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Mahmoud--Abdelkawy-0A66C2?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/mahmoud-abdelkawy-99290020b)
 [![Twitter](https://img.shields.io/badge/X-m7moud3bdelkawy-000000?style=for-the-badge&logo=x)](https://x.com/m7moud3bdelkawy)
 [![GitHub](https://img.shields.io/badge/GitHub-m7moud2-181717?style=for-the-badge&logo=github)](https://github.com/m7moud2)
-
-<br>
-
-<!-- Footer Waving Capsule -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:ff007f,50:7928CA,100:00f0ff&height=120&section=footer" width="100%" />
 
 </div>
