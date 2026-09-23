@@ -75,32 +75,36 @@
 
 ---
 
-## Featured DevOps Project
+## Featured DevOps Projects & Hands-on Labs
 
-<div align="center">
-
-### [TaskFlow Docker Observability API](https://github.com/m7moud2/taskflow-docker-api)
+### 1. [TaskFlow Docker Observability API](https://github.com/m7moud2/taskflow-docker-api)
 *Production-Grade Enterprise Observability & Monitoring Infrastructure*
 
-```
-Nginx Web Server ──> /stub_status ──> Nginx Exporter (9113) ──┐
-                                                               ├──> Prometheus (9090) ──> Grafana (3001)
-WordPress Site   <--> MySQL 8.0   ──> MySQL Exporter (9104) ──┘           │
-                                                                          └──> Alertmanager (9093)
-```
-
-</div>
-
-- **Modular Architecture:** Decoupled stacks for standalone Nginx (`docker-compose.nginx.yml`) and WordPress/MySQL 8.0 (`docker-compose.wordpress.yml`).
+- **Modular Architecture:** Decoupled Compose stacks for standalone Nginx (`docker-compose.nginx.yml`) and WordPress/MySQL 8.0 (`docker-compose.wordpress.yml`).
 - **Automated Provisioning:** Grafana datasources (`http://prometheus:9090`) and pre-loaded JSON dashboards with zero manual GUI setup.
 - **Alerting & Silencing:** Failover alert rules for service outages and Alertmanager silencing workflows for maintenance windows.
 - **Quality Assurance:** GitHub Actions CI verification pipeline, executable health check scripts, and failure injection testing.
 
-```bash
-# Launch Nginx Observability Stack
-git clone https://github.com/m7moud2/taskflow-docker-api.git
-cd taskflow-docker-api && docker compose -f docker-compose.nginx.yml up -d
-```
+### 2. [Linux System Administration Labs](https://github.com/m7moud2/linux-system-administration-labs)
+*Automated Linux Server Administration, Process Monitoring, and Maintenance Scripts*
+
+- **User Provisioning:** Automated user account creation, group assignment, shell settings, and SSH permissions (`user_management.sh`).
+- **Resource Diagnostics:** Inspection script analyzing CPU idle limits, RAM usage, and disk threshold alerts (`systemhealthcheck.sh`).
+- **Service & Backup Management:** Production `systemd` unit files and retention backup rotation scripts (`backup_rotation.sh`).
+
+### 3. [Linux Web Stack Deployments](https://github.com/m7moud2/linux-webstack-deployments)
+*Production Web Server Configurations for Nginx, WordPress, Apache, and PHP-FPM*
+
+- **Nginx Architecture:** Virtual Host setup with FastCGI PHP pass-through, gzip compression, security headers, and `/stub_status` metrics path.
+- **Apache Integration:** VirtualHost configuration with `mod_proxy_fcgi` handler for PHP-FPM pool processing (`127.0.0.1:9000`).
+- **Config Validation:** Automation script for pre-reload syntax validation (`verify_configs.sh`).
+
+### 4. [Linux Networking and Security Suite](https://github.com/m7moud2/linux-networking-security-suite)
+*UFW Firewall Hardening, IPv4 Subnet Calculator, and DNS Diagnostics*
+
+- **Firewall Hardening:** Shell script enforcing default-deny ingress policies, port 22 SSH rate limiting, and web traffic rules (`firewall_hardening.sh`).
+- **Subnet Calculator:** Python CLI tool for IPv4 CIDR subnetting, netmask calculations, and host boundary definitions (`subnet_calculator.py`).
+- **DNS Diagnostics:** Resolution testing script inspecting A, MX, NS, and query latency (`zone_test.sh`).
 
 ---
 
