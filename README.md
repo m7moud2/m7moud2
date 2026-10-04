@@ -106,12 +106,19 @@
 - **Subnet Calculator:** Python CLI tool for IPv4 CIDR subnetting, netmask calculations, and host boundary definitions (`subnet_calculator.py`).
 - **DNS Diagnostics:** Resolution testing script inspecting A, MX, NS, and query latency (`zone_test.sh`).
 
+### 5. [Kubernetes Work - Beginner Lab](https://github.com/m7moud2/taskflow-docker-api/tree/main/projects/kubernetes-work)
+*A hands-on introduction to deploying and operating a local Kubernetes workload*
+
+- **Core Resources:** Kubernetes Namespace, ConfigMap, Deployment, and ClusterIP Service manifests for a sample Nginx site.
+- **Operations Practice:** Guided exercises for inspecting Pods and logs, scaling replicas, replacing a Pod, and rolling out an image update.
+- **Local Setup:** Instructions for using Docker Desktop Kubernetes or Minikube, with `kubectl` commands and cleanup steps.
+
 ---
 
 ## Career Roadmap & Growth
 
 - **Current Learning Path:**
-  - **Kubernetes (K8s):** Pod Scheduling, Service Mesh, Ingress Controllers, StatefulSets & Helm.
+  - **Kubernetes (K8s):** Building on Namespace, ConfigMap, Deployment, Service, scaling, and rollout fundamentals with Pod scheduling, Ingress, StatefulSets, and Helm.
   - **Terraform (IaC):** Cloud Infrastructure Provisioning, HCL Code Modules, State Management.
   - **Advanced Observability:** OpenTelemetry (OTel) Collector & Grafana Loki Log Aggregation.
 - **Career Goal:**
